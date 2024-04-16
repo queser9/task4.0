@@ -32,7 +32,7 @@ graph TD
 
 ## Development Methodology
 
-We plan to adopt an Agile development approach to quickly adapt to changing requirements. The project will be divided into multiple two-week iteration cycles, including requirement reviews, design, development, testing, and delivery. This iterative development approach is beneficial for risk control, ensuring high-quality delivery, and promptly receiving feedback for adjustments.
+I plan to adopt an Agile development approach to quickly adapt to changing requirements. The project will be divided into multiple two-week iteration cycles, including requirement reviews, design, development, testing, and delivery. This iterative development approach is beneficial for risk control, ensuring high-quality delivery, and promptly receiving feedback for adjustments.
 
 ## Conclusion
 
